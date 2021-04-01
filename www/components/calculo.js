@@ -26,7 +26,7 @@ valor1 = textoDisplay;
 zerarDisplay();
 })
 
-$(document).on("click", "#igual", function(){
+$(document).on("click", ".igual", function(){
   var valor2 = textoDisplay;
   zerarDisplay();
 
